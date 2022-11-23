@@ -69,13 +69,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-a3d5270e51d6.js"></script>
   
 
-  <title>Formants-Estimation-Using-Group-Delay-Function/README.md at main · sandhyajnv/Formants-Estimation-Using-Group-Delay-Function</title>
+  <title>Formants-Estimation-Using-Group-Delay-Function/main.py at main · sandhyajnv/Formants-Estimation-Using-Group-Delay-Function</title>
 
 
 
     
 
-  <meta name="request-id" content="90F4:378A:1BE5EA:263214:637E35BE" data-turbo-transient="true" /><meta name="html-safe-nonce" content="4291041b6eb400099af05fb1940fe087aff221e71a0cbc185fde4fa9e432c46a" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYW5kaHlham52L0Zvcm1hbnRzLUVzdGltYXRpb24tVXNpbmctR3JvdXAtRGVsYXktRnVuY3Rpb24iLCJyZXF1ZXN0X2lkIjoiOTBGNDozNzhBOjFCRTVFQToyNjMyMTQ6NjM3RTM1QkUiLCJ2aXNpdG9yX2lkIjoiNzIzMDA2OTc0OTI3MzQxMjE4MCIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="289ca4ae24e787ff44fd71d79c1a00f1b9051d8afc953e9d213b8306e4945e0e" data-turbo-transient="true" />
+  <meta name="request-id" content="90F4:378A:1BE3AA:262ED1:637E35B9" data-turbo-transient="true" /><meta name="html-safe-nonce" content="4291041b6eb400099af05fb1940fe087aff221e71a0cbc185fde4fa9e432c46a" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYW5kaHlham52L0Zvcm1hbnRzLUVzdGltYXRpb24tVXNpbmctR3JvdXAtRGVsYXktRnVuY3Rpb24iLCJyZXF1ZXN0X2lkIjoiOTBGNDozNzhBOjFCRTNBQToyNjJFRDE6NjM3RTM1QjkiLCJ2aXNpdG9yX2lkIjoiNzIzMDA2OTc0OTI3MzQxMjE4MCIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="92342a00c66eb465310e6de5a31afad692387230c59a9652449ae9e67831c04d" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:569690370" data-turbo-transient>
@@ -114,11 +114,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/a87c88ee98c845dafeb434a5712d2a72bbc296e4c00e36b64fdc21a21b9e79c7/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Formants-Estimation-Using-Group-Delay-Function/README.md at main · sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta name="twitter:description" content="Contribute to sandhyajnv/Formants-Estimation-Using-Group-Delay-Function development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/a87c88ee98c845dafeb434a5712d2a72bbc296e4c00e36b64fdc21a21b9e79c7/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta property="og:image:alt" content="Contribute to sandhyajnv/Formants-Estimation-Using-Group-Delay-Function development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Formants-Estimation-Using-Group-Delay-Function/README.md at main · sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta property="og:url" content="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta property="og:description" content="Contribute to sandhyajnv/Formants-Estimation-Using-Group-Delay-Function development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/a87c88ee98c845dafeb434a5712d2a72bbc296e4c00e36b64fdc21a21b9e79c7/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Formants-Estimation-Using-Group-Delay-Function/main.py at main · sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta name="twitter:description" content="Contribute to sandhyajnv/Formants-Estimation-Using-Group-Delay-Function development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/a87c88ee98c845dafeb434a5712d2a72bbc296e4c00e36b64fdc21a21b9e79c7/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta property="og:image:alt" content="Contribute to sandhyajnv/Formants-Estimation-Using-Group-Delay-Function development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Formants-Estimation-Using-Group-Delay-Function/main.py at main · sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta property="og:url" content="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" /><meta property="og:description" content="Contribute to sandhyajnv/Formants-Estimation-Using-Group-Delay-Function development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/111069942/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTEwNjk5NDIsInMiOjk3Njg2MDgwMywiYyI6NDA2NzAwMTA5NywidCI6MTY2OTIxNTcwMH0=--ad6310217239d8adcde10b8b483c0a6c06625da218a2eeccb39b3c650fd1a80b" data-refresh-url="/_alive" data-session-id="1c5d895f2f37f6f521524f48227488217accd4daf52038944599aa43fe1b07a7">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/111069942/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTEwNjk5NDIsInMiOjk3Njg2MDgwMywiYyI6MjY3OTg0Nzc4OCwidCI6MTY2OTIxNTY3OH0=--5026292406ef3cdd103d15d2bc49d4e3e11a20573ba407150018c169e4e87beb" data-refresh-url="/_alive" data-session-id="1c5d895f2f37f6f521524f48227488217accd4daf52038944599aa43fe1b07a7">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -148,7 +148,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="9HzxLu4eSZH8z_CgWAHspd1ZjYHQg-73rRlQk40FWOJUhPI22MjB_G4e_HrN0qFRbk3ciMtun3QQ3a0oo0U7RA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="oY0-F0JZ5-tqIOT51hQcb8wYYfMZHeKCZ8eF5d-_pKcBdT0PdI9vhvjx6CNDx1Gbfwww-gLwkwHaA3he8f_HAQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ADITYACHOUDHARY05&quot;,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="67b386c48a97ad2ee051dfea160fb1abe169778917d6ad0d2558f1e41b9c8e72" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ADITYACHOUDHARY05&quot;,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="9c79f3b8ead5ff611a5a28fe1f1dff1f48da777d7c926ae1c14bc00e1f8bda6d" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/111069942?s=40&amp;v=4" width="20" height="20" alt="@ADITYACHOUDHARY05" />
       ADITYACHOUDHARY05
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7Majs6qrvAza_jqlC9gUE3vAYMku27s8hk-7aJYcCHmBrc0Bqt8T1hhKPyCMlbpfyqRi_tVm7W9BfZYqKppXkw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uV3fUtyRhFDfBk47sQp3FN4Gvs6jty7tOAoCQQR7SWjUNrHg3OUrih2yS742R9lYb2K8-VgKeL7_OC8DuP0Wgg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTExMDY5OTQyIiwidCI6MTY2OTIxNTcwMH0=--e6e36b5821689c33dff1cb54eec2ef216b9ee7ee3fee1ab8f395b9910bb2ab5f" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTExMDY5OTQyIiwidCI6MTY2OTIxNTY3OH0=--794e7b8398fba5eed5419687db43c3627199253d851c30f4248969a7f57a5e50" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md
+      return-to=/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py
       user-id="111069942"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1605,7 +1605,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="399869913e2883ab0dbb7544a5fbeef79adaf2ed60ab1a6888d9bf49fa937d6a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="e026952d119f6a9bf10804950a11f5b613bd91b62496e32545315723fc2048d0" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1657,7 +1657,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TNbk2DBYnagOfbV3yxstOGHj-uGWMGhnKd1kkNDwI7PLVGcN9yEhYyxSaKaYSVMhOjqXwoZPrlR2Q8nf-YgPBw" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KmQwMyp4UuHmCrJT93TCN_G0CAj5Fr1hfsQtCBULryet5rPm7QHuKsQlb4KkJrwuqm1lK-lpe1IhWoBHPHODkw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="569690370">
 
@@ -1785,7 +1785,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gk7lifusxrhhbHvPQEY9K4MUBKkHxEgrpx2FwYqJCKsFzGZcPNV6c0NDph4TFEMy2M1pihe7jhj4gyiOo_EkHw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SKiqwdbyarw-PLTYVWKofq6s91bMYPdwYsI-ImJa8OHPKikUEYvWdxwTaQkGMNZn9XWaddwfMUM9XJNtSyLcVQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="569690370">
 
@@ -1936,7 +1936,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="0fadf0702fedbdf0004e71e2082e72918d4a0fbb488e29eedb83f8489571f5f0" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="8e22a83336d7c63686fe0fdfd464975aedc9ea614497ee76ca65aedb2ba7458f" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of sandhyajnv/Formants-Estimation-Using-Group-Delay-Function" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1954,13 +1954,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-408bc2">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3010b8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-408bc2"
+        id="filter-menu-3010b8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2002,10 +2002,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9apW6ouWNAjf96vgy1xXuQops1SDZ_aNocacli7N4NJnx7IaEJ2QyDm0bUScc0OfVnO2nDJGK3VwLZV2nrfq_A" autocomplete="off" />
-          <input type="hidden" value="wi5lacqQShUC2TiN8luqpf_rb7X5CwAfxPz1YQeyZ4xQQ4GZUZvu1eSa_imldL6Do7FqfUgq3ecVF_yBt8htog" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WsuGJkQMKy2Urb3ybfuQvAozF4lp9RaVHsa8cHjwXsTIpmLW3weP7XLue1Y61ISaVmkSQdjUy23PLbWQyIpU6g" autocomplete="off" />
+          <input type="hidden" value="rRHQtEX7TZ_2JoTx4uZiB9woIepDER9XapdTG4XqHcM_fDRE3vDpXxBlQlW1yXYhgHIkIvIwwq-7fFr7NZAX7Q" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="74281bd8f69cb86f7c855c660f83568af0e0ff85df94d3646108a5537dc74a1c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="a131eb99181beeb37affaebcdb88b23fce0219e85216f3b4f779114e9dcd50f3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2023,13 +2023,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ce09f5">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-252fbc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-ce09f5"
+        id="filter-menu-252fbc"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2050,9 +2050,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nwdt7wDX6l82tH8Nl2Y-YpWpCn4Rq-REiV3ClvyoB9_NYUBdr58z2rroHZMqsDayk4bv0MsJNnk6VP-etZ6bww" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6_nec-tr4Y-7Hjzir2tUoHrpbWG539Nm-r5XUnSOJEcRn_PBRCM4CjdCXnwSvVxwfMaIz2N9AVtJt2paPbi4Ww" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="03255d2805a3b7ef188ea016981868867fdd5ed672c7faa8a574e11cbcbaa7eb" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="dce54d5ce0b79a67a6ac818f89245b09e27b84426e89c89c10350da0bcdcd985" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2070,13 +2070,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ce09f5">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-252fbc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-ce09f5"
+        id="filter-menu-252fbc"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2263,7 +2263,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/ecc76cfee971dbe92ee5146b094353ce5efb6af6/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/ecc76cfee971dbe92ee5146b094353ce5efb6af6/main.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2271,7 +2271,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="0acb881fa9e71ea859b8c2d49ef86366aa6e47becd2d37fcb26ed902aec070bc">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="a98773e5be6bbc19669b51e390dcb1559a879d5b68ae059ae8dd8e3e351074fd">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2352,7 +2352,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/{{ urlEncodedRefName }}/main.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2394,7 +2394,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/{{ urlEncodedRefName }}/main.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2455,7 +2455,42 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function"><span>Formants-Estimation-Using-Group-Delay-Function</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function"><span>Formants-Estimation-Using-Group-Delay-Function</span></a></span></span><span class="separator">/</span><strong class="final-path">main.py</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:569690370,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="3bfd8ad3e01edb48576448c30a4efb0422c0cb1558bf7be3b073cafd38dcf031" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+      <div class="SelectMenu-list">
+          <div class="SelectMenu-blankslate">
+            <p class="mb-0 color-fg-muted">
+              No definitions found in this file.
+            </p>
+          </div>
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation not available for this commit
+          <svg class="octicon octicon-dot-fill text-light-gray" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2466,7 +2501,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="e207c61b2dc31af44437e4f1ffc018f97f69061d444fe5c69a486bac99138a8a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="6a95163dac2dbf1984469439f0a4d91c85c68f3b69b7d8a43fbb882184035c75" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2476,15 +2511,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="main.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/ecc76cfee971dbe92ee5146b094353ce5efb6af6/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/ecc76cfee971dbe92ee5146b094353ce5efb6af6/main.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2516,80 +2557,17 @@
     <include-fragment src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/spoofed_commit_check/ecc76cfee971dbe92ee5146b094353ce5efb6af6" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/sandhyajnv/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sandhyajnv"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/105709848?s=48&amp;v=4" width="24" height="24" alt="@sandhyajnv" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/sandhyajnv/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sandhyajnv">sandhyajnv</a>
+  <include-fragment src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/contributors/main/main.py" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Update README.md" class="Link--secondary" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/commit/ecc76cfee971dbe92ee5146b094353ce5efb6af6">Update README.md</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/commit/ecc76cfee971dbe92ee5146b094353ce5efb6af6/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/commit/ecc76cfee971dbe92ee5146b094353ce5efb6af6" data-pjax>ecc76cf</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-11-23T14:23:58Z" class="no-wrap">Nov 23, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/commits/main/README.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/contributors-list/main/README.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2613,31 +2591,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      26 lines (14 sloc)
+      146 lines (104 sloc)
       <span class="file-info-divider"></span>
-    871 Bytes
+    3.21 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md?plain=1" data-permalink-href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/ecc76cfee971dbe92ee5146b094353ce5efb6af6/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md" data-permalink-href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/ecc76cfee971dbe92ee5146b094353ce5efb6af6/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/ecc76cfee971dbe92ee5146b094353ce5efb6af6/README.md" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blame/ecc76cfee971dbe92ee5146b094353ce5efb6af6/README.md" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/ecc76cfee971dbe92ee5146b094353ce5efb6af6/main.py" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/main/main.py" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blame/ecc76cfee971dbe92ee5146b094353ce5efb6af6/main.py" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blame/main/main.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xwa6Q5lU50FtKzEHdEUfrhugeVAkoLMcqVJmFw5X1P-7Sb-cQxEsttStBNQ5xWaVzB8gXm6tVAvKzBqVWh_Q_w" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/edit/main/main.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jKXIgZjvnMgYf1xWeIXBHwKsflRxtGB9Iku5rSXL0N_k76HFv7SeTVsq6HdU4_FXtGOw6857ZbF-p1I8xaK3Ug" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2647,7 +2617,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HuLUrm6Rw57l-fIK6Pdk5soZsHNFgkUoBMInyY2dBaFirdFxtNQIaVx_x9mldx3dHabpfQ-Poj9nXFtL2dUBoQ" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/edit/main/main.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YRsArInhexVk1-ED_aNiFspzHUdtbkuTF7jGEE-dQT8JUWnorrp5kCeCVSLRxVJefLzT-NKhTl9LVC2Br_Qmsg" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2666,10 +2636,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/ecc76cfee971dbe92ee5146b094353ce5efb6af6/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/ecc76cfee971dbe92ee5146b094353ce5efb6af6/main.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="fd648cfb7b7abfe326cfbaab9d5aeb11e41a93a634f0856381a73f419963a737" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="06857ceaa0e0ded2c83465970d36ce30f760b2d3e6156562e1ab5521dcb9003c" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2694,7 +2664,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IFyLRf-3f18UzTqFhd3zvLtIekIS4KjVN1ENFcAARJ1JWO2m_adFsdAOE8pkVaWQuJgAnWKP89ouwMGLNbwC-Q" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/delete/main/main.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ua1JpV0tAZjMmizm_ZESFGuuM1tke75ppJHB-eCQxOnNyFOgQdBgmmgGCXG3pbkZlSaRMOpUJo1x_xkzOh2zWA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2727,15 +2697,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/main/README.md">
+            <a class="dropdown-item" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/main/main.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/raw/main/main.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/README.md&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="fd648cfb7b7abfe326cfbaab9d5aeb11e41a93a634f0856381a73f419963a737">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:569690370,&quot;originating_url&quot;:&quot;https://github.com/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blob/main/main.py&quot;,&quot;user_id&quot;:111069942}}" data-hydro-click-hmac="06857ceaa0e0ded2c83465970d36ce30f760b2d3e6156562e1ab5521dcb9003c">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2758,20 +2728,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blame/main/README.md">
+              <a class="dropdown-item" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blame/main/main.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/edit/main/main.py">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:569690370,&quot;actor_id&quot;:111069942,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/delete/main/main.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2779,23 +2749,674 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">Formants-Estimation-Using-Group-Delay-Function</p>
-<p dir="auto">This project finds the formants frequencies of a speech signal.</p>
-<p dir="auto">. In this project User provides a speech file(wav file)</p>
-<p dir="auto">. Native sampling rate is preserved for the speech file.</p>
-<p dir="auto">.Choose appropriate win- size and hop length while making frames of the given speech file.</p>
-<p dir="auto">INSTALLATION INSTRUCTION:</p>
-<p dir="auto">Download the main code.  This code uses signal processing and speech processing libraries as scipy and librosa respectively.</p>
-<p dir="auto">Installation of libraries:
-pip install --user scipy,</p>
-<p dir="auto">pip install librosa</p>
-<p dir="auto">How to use:
-Download the wav file from example data file and run the main code by providing path of your speech file and to get formants corresponding to each frame print formants.</p>
-<p dir="auto">peaks for frame=65
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/105709848/203570290-f4af001f-9f8c-4e35-9c80-e37673edb0a1.PNG"><img src="https://user-images.githubusercontent.com/105709848/203570290-f4af001f-9f8c-4e35-9c80-e37673edb0a1.PNG" alt="peak" style="max-width: 100%;"></a></p>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="main.py">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>librosa</span> </td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>numpy</span> <span class=pl-k>as</span> <span class=pl-s1>np</span> </td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>scipy</span>.<span class=pl-s1>fft</span> <span class=pl-k>import</span> <span class=pl-s1>fft</span>, <span class=pl-s1>fftfreq</span>,<span class=pl-s1>fftshift</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>scipy</span>.<span class=pl-s1>signal</span> </td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>matplotlib</span>.<span class=pl-s1>pyplot</span> <span class=pl-k>as</span> <span class=pl-s1>plt</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>math</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>pandas</span> <span class=pl-k>as</span> <span class=pl-s1>pd</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>google</span>.<span class=pl-s1>colab</span> <span class=pl-k>import</span> <span class=pl-s1>drive</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>drive</span>.<span class=pl-en>mount</span>(<span class=pl-s>&quot;/content/drive&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>scipy</span>.<span class=pl-s1>signal</span> <span class=pl-k>import</span> <span class=pl-s1>find_peaks</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>scipy</span>.<span class=pl-s1>signal</span> <span class=pl-k>import</span> <span class=pl-s1>savgol_filter</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>speechFile</span>,<span class=pl-s1>sr</span><span class=pl-c1>=</span><span class=pl-s1>librosa</span>.<span class=pl-en>load</span>(<span class=pl-s>&quot;/content/drive/MyDrive/speech_files/oak.wav&quot;</span>,<span class=pl-s1>sr</span><span class=pl-c1>=</span><span class=pl-c1>None</span>)</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-en>print</span>(<span class=pl-en>len</span>(<span class=pl-s1>speechFile</span>))</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>x</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>linspace</span>(<span class=pl-c1>0</span>,<span class=pl-en>len</span>(<span class=pl-s1>speechFile</span>)<span class=pl-c1>/</span><span class=pl-s1>sr</span>,<span class=pl-en>len</span>(<span class=pl-s1>speechFile</span>),<span class=pl-s1>endpoint</span><span class=pl-c1>=</span><span class=pl-c1>False</span>)</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>winsize</span><span class=pl-c1>=</span><span class=pl-c1>0.003</span> <span class=pl-c># seconds</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>hopl</span><span class=pl-c1>=</span><span class=pl-c1>0.015</span> <span class=pl-c># seconds</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>framelength</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-c1>0.03</span><span class=pl-c1>*</span><span class=pl-s1>sr</span>)</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>hoplength</span><span class=pl-c1>=</span><span class=pl-en>int</span>(<span class=pl-c1>0.015</span><span class=pl-c1>*</span><span class=pl-s1>sr</span>)</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>nfft</span><span class=pl-c1>=</span><span class=pl-c1>512</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>xlabel</span>(<span class=pl-s>&quot;Time&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>ylabel</span>(<span class=pl-s>&quot;Amplitude&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>plot</span>(<span class=pl-s1>x</span>,<span class=pl-s1>speechFile</span>)</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>frames</span><span class=pl-c1>=</span><span class=pl-s1>librosa</span>.<span class=pl-s1>util</span>.<span class=pl-en>frame</span>(<span class=pl-s1>speechFile</span>,<span class=pl-s1>frame_length</span><span class=pl-c1>=</span><span class=pl-s1>framelength</span>, <span class=pl-s1>hop_length</span><span class=pl-c1>=</span><span class=pl-s1>hoplength</span>, <span class=pl-s1>axis</span><span class=pl-c1>=</span><span class=pl-c1>0</span>)</td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>hw</span><span class=pl-c1>=</span><span class=pl-s1>scipy</span>.<span class=pl-s1>signal</span>.<span class=pl-en>get_window</span>(<span class=pl-s>&quot;hamming&quot;</span>,<span class=pl-s1>nfft</span>)</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>dftx</span><span class=pl-c1>=</span><span class=pl-en>fftfreq</span>(<span class=pl-s1>nfft</span>,<span class=pl-c1>1</span><span class=pl-c1>/</span><span class=pl-s1>sr</span>)</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>padding</span>(<span class=pl-s1>nfft</span>,<span class=pl-s1>framelength</span>,<span class=pl-s1>frames</span>):</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>zero</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>zeros</span>(<span class=pl-s1>nfft</span>)</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>point</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-s1>i</span> <span class=pl-c1>in</span> <span class=pl-en>range</span>(<span class=pl-en>len</span>(<span class=pl-s1>frames</span>)):</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>zero</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>zeros</span>(<span class=pl-s1>nfft</span>)</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>zero</span>[:<span class=pl-s1>framelength</span>]<span class=pl-c1>=</span><span class=pl-s1>frames</span>[<span class=pl-s1>i</span>]</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>point</span>.<span class=pl-en>append</span>(<span class=pl-s1>zero</span>)</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>return</span>(<span class=pl-s1>np</span>.<span class=pl-en>array</span>(<span class=pl-s1>point</span>))</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>groupDelay</span>(<span class=pl-s1>framesp</span>,<span class=pl-s1>hw</span>):</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>y</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-s1>frames</span> <span class=pl-c1>in</span> <span class=pl-s1>framesp</span>:</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>y1</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>for</span> <span class=pl-s1>index</span>,<span class=pl-s1>value</span> <span class=pl-c1>in</span> <span class=pl-en>enumerate</span>(<span class=pl-s1>frames</span>):</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>y1</span>.<span class=pl-en>append</span>(<span class=pl-s1>index</span><span class=pl-c1>*</span><span class=pl-s1>value</span>)</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>y</span>.<span class=pl-en>append</span>(<span class=pl-s1>y1</span>)</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>y</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>array</span>(<span class=pl-s1>y</span>)</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>x</span><span class=pl-c1>=</span><span class=pl-s1>framesp</span></td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>dftxg</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>dftyg</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-s1>i</span> <span class=pl-c1>in</span> <span class=pl-en>range</span>(<span class=pl-en>len</span>(<span class=pl-s1>x</span>)):</td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>dftxg</span>.<span class=pl-en>append</span>((<span class=pl-en>fft</span>(<span class=pl-s1>np</span>.<span class=pl-en>multiply</span>(<span class=pl-s1>hw</span>,<span class=pl-s1>x</span>[<span class=pl-s1>i</span>]))))</td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>dftyg</span>.<span class=pl-en>append</span>((<span class=pl-en>fft</span>(<span class=pl-s1>np</span>.<span class=pl-en>multiply</span>(<span class=pl-s1>hw</span>,<span class=pl-s1>y</span>[<span class=pl-s1>i</span>]))))</td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>dftxg</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>array</span>(<span class=pl-s1>dftxg</span>)</td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>dftyg</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>array</span>(<span class=pl-s1>dftyg</span>)</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>sum</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-s1>i</span> <span class=pl-c1>in</span> <span class=pl-en>range</span>(<span class=pl-en>len</span>(<span class=pl-s1>dftxg</span>)):</td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>x</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>multiply</span>(<span class=pl-s1>dftxg</span>.<span class=pl-s1>real</span>,<span class=pl-s1>dftyg</span>.<span class=pl-s1>real</span>)</td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>y</span><span class=pl-c1>=</span><span class=pl-s1>np</span>.<span class=pl-en>multiply</span>(<span class=pl-s1>dftxg</span>.<span class=pl-s1>imag</span>,<span class=pl-s1>dftyg</span>.<span class=pl-s1>imag</span>)</td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>return</span>(<span class=pl-s1>x</span><span class=pl-c1>+</span><span class=pl-s1>y</span>)</td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>plot_timeDomainframe</span>(<span class=pl-s1>frames</span>,<span class=pl-s1>framelength</span>,<span class=pl-s1>i</span>,<span class=pl-s1>sr</span>):</td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>title</span>(<span class=pl-s>&quot;frame no {}&quot;</span>.<span class=pl-en>format</span>(<span class=pl-s1>i</span>))</td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>plot</span>(<span class=pl-s1>np</span>.<span class=pl-en>linspace</span>(<span class=pl-c1>0</span>,<span class=pl-s1>framelength</span><span class=pl-c1>/</span><span class=pl-s1>sr</span>,<span class=pl-s1>framelength</span>,<span class=pl-s1>endpoint</span><span class=pl-c1>=</span><span class=pl-c1>False</span>),<span class=pl-s1>frames</span>[<span class=pl-s1>i</span>])</td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>xlabel</span>(<span class=pl-s>&quot;time(s)&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>ylabel</span>(<span class=pl-s>&quot;amplitude&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>title</span>(<span class=pl-s>&quot;time domain plot of frame {}&quot;</span>.<span class=pl-en>format</span>(<span class=pl-s1>i</span>))</td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>show</span>()</td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>hwfft</span>(<span class=pl-s1>framesp</span>,<span class=pl-s1>hw</span>):</td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>dftyh</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-s1>i</span> <span class=pl-c1>in</span> <span class=pl-en>range</span>(<span class=pl-en>len</span>(<span class=pl-s1>framesp</span>)):</td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>dftyh</span>.<span class=pl-en>append</span>(<span class=pl-en>abs</span>(<span class=pl-en>fft</span>(<span class=pl-s1>np</span>.<span class=pl-en>multiply</span>(<span class=pl-s1>hw</span>,<span class=pl-s1>framesp</span>[<span class=pl-s1>i</span>]))))</td>
+        </tr>
+        <tr>
+          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>return</span>(<span class=pl-s1>np</span>.<span class=pl-en>array</span>(<span class=pl-s1>dftyh</span>))</td>
+        </tr>
+        <tr>
+          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>#dfty.append(abs(fft(framesp[i])))</span></td>
+        </tr>
+        <tr>
+          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>peak_picking</span>(<span class=pl-s1>t</span>,<span class=pl-s1>dftx</span>):</td>
+        </tr>
+        <tr>
+          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>frames_S</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-s1>frames</span> <span class=pl-c1>in</span> <span class=pl-s1>t</span>:</td>
+        </tr>
+        <tr>
+          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>frames_S</span>.<span class=pl-en>append</span>(<span class=pl-en>savgol_filter</span>(<span class=pl-s1>frames</span>[:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>],<span class=pl-c1>51</span>,<span class=pl-c1>3</span>))</td>
+        </tr>
+        <tr>
+          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>formant</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>peak</span><span class=pl-c1>=</span>[]</td>
+        </tr>
+        <tr>
+          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-s1>frame</span> <span class=pl-c1>in</span> <span class=pl-s1>frames_S</span>:</td>
+        </tr>
+        <tr>
+          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>peaks</span>, <span class=pl-s1>_</span><span class=pl-c1>=</span><span class=pl-en>find_peaks</span>(<span class=pl-s1>frame</span>)</td>
+        </tr>
+        <tr>
+          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
+          <td id="LC105" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>formant</span>.<span class=pl-en>append</span>([<span class=pl-s1>dftx</span>[:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>][<span class=pl-s1>i</span>] <span class=pl-k>for</span> <span class=pl-s1>i</span> <span class=pl-c1>in</span> <span class=pl-s1>peaks</span>])</td>
+        </tr>
+        <tr>
+          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
+          <td id="LC106" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>peak</span>.<span class=pl-en>append</span>(<span class=pl-s1>peaks</span>)</td>
+        </tr>
+        <tr>
+          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
+          <td id="LC107" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
+          <td id="LC108" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>return</span>(<span class=pl-s1>formant</span>,<span class=pl-s1>frames_S</span>,<span class=pl-s1>peak</span>)</td>
+        </tr>
+        <tr>
+          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
+          <td id="LC109" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
+          <td id="LC110" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-v>FFT_plotting</span>(<span class=pl-s1>x</span>,<span class=pl-s1>y</span>,<span class=pl-s1>i</span>,<span class=pl-s1>nfft</span>):</td>
+        </tr>
+        <tr>
+          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
+          <td id="LC111" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>plot</span>(<span class=pl-s1>x</span>,<span class=pl-s1>np</span>.<span class=pl-en>log10</span>(<span class=pl-en>abs</span>(<span class=pl-s1>y</span>[<span class=pl-s1>i</span>][:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>])))</td>
+        </tr>
+        <tr>
+          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
+          <td id="LC112" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>xlabel</span>(<span class=pl-s>&quot;Frequency(Hz)&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
+          <td id="LC113" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>ylabel</span>(<span class=pl-s>&quot;Magnitude &quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
+          <td id="LC114" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>show</span>()</td>
+        </tr>
+        <tr>
+          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
+          <td id="LC115" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
+          <td id="LC116" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
+          <td id="LC117" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>gd_plot</span>(<span class=pl-s1>x</span>,<span class=pl-s1>y</span>,<span class=pl-s1>i</span>,<span class=pl-s1>nfft</span>):</td>
+        </tr>
+        <tr>
+          <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
+          <td id="LC118" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>title</span>(<span class=pl-s>&quot;group delay&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
+          <td id="LC119" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>xlabel</span>(<span class=pl-s>&quot;Frequency(Hz)&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
+          <td id="LC120" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>ylabel</span>(<span class=pl-s>&quot;time(s)&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
+          <td id="LC121" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>plot</span>(<span class=pl-s1>x</span>,<span class=pl-s1>y</span>[<span class=pl-s1>i</span>][:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>])</td>
+        </tr>
+        <tr>
+          <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
+          <td id="LC122" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>show</span>()</td>
+        </tr>
+        <tr>
+          <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
+          <td id="LC123" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
+          <td id="LC124" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
+          <td id="LC125" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>peak_plot</span>(<span class=pl-s1>dftx</span>,<span class=pl-s1>frames_S</span>,<span class=pl-s1>nfft</span>,<span class=pl-s1>i</span>):</td>
+        </tr>
+        <tr>
+          <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
+          <td id="LC126" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>xlabel</span>(<span class=pl-s>&quot;frequency&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
+          <td id="LC127" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>ylabel</span>(<span class=pl-s>&quot;peaks &quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
+          <td id="LC128" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>plot</span>(<span class=pl-s1>dftx</span>[<span class=pl-s1>peak</span>[<span class=pl-s1>i</span>]][:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>],<span class=pl-s1>frames_S</span>[<span class=pl-s1>i</span>][<span class=pl-s1>peak</span>[<span class=pl-s1>i</span>]][:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>],<span class=pl-s>&quot;x&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
+          <td id="LC129" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>plot</span>(<span class=pl-s1>dftx</span>[:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>],<span class=pl-s1>frames_S</span>[<span class=pl-s1>i</span>][:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>])</td>
+        </tr>
+        <tr>
+          <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
+          <td id="LC130" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>plt</span>.<span class=pl-en>show</span>()</td>
+        </tr>
+        <tr>
+          <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
+          <td id="LC131" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
+          <td id="LC132" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>framesp</span><span class=pl-c1>=</span><span class=pl-en>padding</span>(<span class=pl-s1>nfft</span>,<span class=pl-s1>framelength</span>,<span class=pl-s1>frames</span>)</td>
+        </tr>
+        <tr>
+          <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
+          <td id="LC133" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>fft_frames</span><span class=pl-c1>=</span><span class=pl-en>hwfft</span>(<span class=pl-s1>framesp</span>,<span class=pl-s1>hw</span>)</td>
+        </tr>
+        <tr>
+          <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
+          <td id="LC134" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
+          <td id="LC135" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>t</span><span class=pl-c1>=</span><span class=pl-en>groupDelay</span>(<span class=pl-s1>framesp</span>,<span class=pl-s1>hw</span>)</td>
+        </tr>
+        <tr>
+          <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
+          <td id="LC136" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>formants</span>,<span class=pl-s1>frames_S</span>,<span class=pl-s1>peak</span><span class=pl-c1>=</span><span class=pl-en>peak_picking</span>(<span class=pl-s1>t</span>,<span class=pl-s1>dftx</span>)</td>
+        </tr>
+        <tr>
+          <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
+          <td id="LC137" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>fn</span><span class=pl-c1>=</span><span class=pl-c1>65</span> <span class=pl-c># frame number</span></td>
+        </tr>
+        <tr>
+          <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
+          <td id="LC138" class="blob-code blob-code-inner js-file-line"><span class=pl-v>FFT_plotting</span>(<span class=pl-s1>dftx</span>[:<span class=pl-s1>nfft</span><span class=pl-c1>//</span><span class=pl-c1>2</span>],<span class=pl-s1>fft_frames</span>,<span class=pl-s1>fn</span>,<span class=pl-s1>nfft</span>)</td>
+        </tr>
+        <tr>
+          <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
+          <td id="LC139" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
+          <td id="LC140" class="blob-code blob-code-inner js-file-line"><span class=pl-en>plot_timeDomainframe</span>(<span class=pl-s1>frames</span>,<span class=pl-s1>framelength</span>,<span class=pl-s1>fn</span>,<span class=pl-s1>sr</span>) <span class=pl-c># plotting time domain frame</span></td>
+        </tr>
+        <tr>
+          <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
+          <td id="LC141" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
+          <td id="LC142" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#gd_plot(dftx[:nfft//2],frames_S,fn,nfft)</span></td>
+        </tr>
+        <tr>
+          <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
+          <td id="LC143" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
+          <td id="LC144" class="blob-code blob-code-inner js-file-line"><span class=pl-en>peak_plot</span>(<span class=pl-s1>dftx</span>,<span class=pl-s1>frames_S</span>,<span class=pl-s1>nfft</span>,<span class=pl-s1>fn</span>) <span class=pl-c># plot of frames with corresponding peaks marked</span></td>
+        </tr>
+        <tr>
+          <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
+          <td id="LC145" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/blame/ecc76cfee971dbe92ee5146b094353ce5efb6af6/main.py">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+    </div>
 
     </div>
 
@@ -2811,6 +3432,17 @@ Download the wav file from example data file and run the main code by providing 
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/sandhyajnv/Formants-Estimation-Using-Group-Delay-Function/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
